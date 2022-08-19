@@ -35,7 +35,7 @@ operation::update-post[snippets='http-request,request-fields,http-response,respo
 operation::add-comment[snippets='http-request,request-fields,http-response,response-fields']
 
 [[getComment]]
-=== 댓글 수정
+=== 댓글 보기
 `Comment` 요청을 사용해서 댓글을 열람 할 수 있다.
 
 operation::get-comment[snippets='http-request,request-fields,http-response,response-fields']
